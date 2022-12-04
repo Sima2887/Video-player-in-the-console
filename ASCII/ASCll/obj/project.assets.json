@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "OpenCvSharp-AnyCPU/2.4.10.20170306": {
+        "type": "package",
+        "build": {
+          "build/OpenCvSharp-AnyCPU.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenCvSharp-AnyCPU/2.4.10.20170306": {
+      "sha512": "CzyI6DsEd1OJEdSsLI3iv3INzKfU2ElM2u7yjkBHmPF2nRZ5RBvMLCULEG9HYLXnL1tmUhKYrZz8a9m6dFefAQ==",
+      "type": "package",
+      "path": "opencvsharp-anycpu/2.4.10.20170306",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NativeDlls/x64/OpenCvSharpExtern.dll",
+        "NativeDlls/x64/msvcp120.dll",
+        "NativeDlls/x64/msvcr120.dll",
+        "NativeDlls/x64/opencv_calib3d2410.dll",
+        "NativeDlls/x64/opencv_contrib2410.dll",
+        "NativeDlls/x64/opencv_core2410.dll",
+        "NativeDlls/x64/opencv_features2d2410.dll",
+        "NativeDlls/x64/opencv_ffmpeg2410_64.dll",
+        "NativeDlls/x64/opencv_flann2410.dll",
+        "NativeDlls/x64/opencv_gpu2410.dll",
+        "NativeDlls/x64/opencv_highgui2410.dll",
+        "NativeDlls/x64/opencv_imgproc2410.dll",
+        "NativeDlls/x64/opencv_legacy2410.dll",
+        "NativeDlls/x64/opencv_ml2410.dll",
+        "NativeDlls/x64/opencv_nonfree2410.dll",
+        "NativeDlls/x64/opencv_objdetect2410.dll",
+        "NativeDlls/x64/opencv_ocl2410.dll",
+        "NativeDlls/x64/opencv_photo2410.dll",
+        "NativeDlls/x64/opencv_stitching2410.dll",
+        "NativeDlls/x64/opencv_superres2410.dll",
+        "NativeDlls/x64/opencv_video2410.dll",
+        "NativeDlls/x64/opencv_videostab2410.dll",
+        "NativeDlls/x86/OpenCvSharpExtern.dll",
+        "NativeDlls/x86/msvcp120.dll",
+        "NativeDlls/x86/msvcr120.dll",
+        "NativeDlls/x86/opencv_calib3d2410.dll",
+        "NativeDlls/x86/opencv_contrib2410.dll",
+        "NativeDlls/x86/opencv_core2410.dll",
+        "NativeDlls/x86/opencv_features2d2410.dll",
+        "NativeDlls/x86/opencv_ffmpeg2410.dll",
+        "NativeDlls/x86/opencv_flann2410.dll",
+        "NativeDlls/x86/opencv_gpu2410.dll",
+        "NativeDlls/x86/opencv_highgui2410.dll",
+        "NativeDlls/x86/opencv_imgproc2410.dll",
+        "NativeDlls/x86/opencv_legacy2410.dll",
+        "NativeDlls/x86/opencv_ml2410.dll",
+        "NativeDlls/x86/opencv_nonfree2410.dll",
+        "NativeDlls/x86/opencv_objdetect2410.dll",
+        "NativeDlls/x86/opencv_ocl2410.dll",
+        "NativeDlls/x86/opencv_photo2410.dll",
+        "NativeDlls/x86/opencv_stitching2410.dll",
+        "NativeDlls/x86/opencv_superres2410.dll",
+        "NativeDlls/x86/opencv_video2410.dll",
+        "NativeDlls/x86/opencv_videostab2410.dll",
+        "build/OpenCvSharp-AnyCPU.props",
+        "lib/net20/OpenCvSharp.Blob.XML",
+        "lib/net20/OpenCvSharp.Blob.dll",
+        "lib/net20/OpenCvSharp.Blob.dll.config",
+        "lib/net20/OpenCvSharp.CPlusPlus.XML",
+        "lib/net20/OpenCvSharp.CPlusPlus.dll",
+        "lib/net20/OpenCvSharp.CPlusPlus.dll.config",
+        "lib/net20/OpenCvSharp.UserInterface.dll",
+        "lib/net20/OpenCvSharp.XML",
+        "lib/net20/OpenCvSharp.dll",
+        "lib/net20/OpenCvSharp.dll.config",
+        "lib/net35/OpenCvSharp.Blob.XML",
+        "lib/net35/OpenCvSharp.Blob.dll",
+        "lib/net35/OpenCvSharp.Blob.dll.config",
+        "lib/net35/OpenCvSharp.CPlusPlus.XML",
+        "lib/net35/OpenCvSharp.CPlusPlus.dll",
+        "lib/net35/OpenCvSharp.CPlusPlus.dll.config",
+        "lib/net35/OpenCvSharp.Extensions.XML",
+        "lib/net35/OpenCvSharp.Extensions.dll",
+        "lib/net35/OpenCvSharp.UserInterface.dll",
+        "lib/net35/OpenCvSharp.XML",
+        "lib/net35/OpenCvSharp.dll",
+        "lib/net35/OpenCvSharp.dll.config",
+        "lib/net40/OpenCvSharp.Blob.XML",
+        "lib/net40/OpenCvSharp.Blob.dll",
+        "lib/net40/OpenCvSharp.Blob.dll.config",
+        "lib/net40/OpenCvSharp.CPlusPlus.XML",
+        "lib/net40/OpenCvSharp.CPlusPlus.dll",
+        "lib/net40/OpenCvSharp.CPlusPlus.dll.config",
+        "lib/net40/OpenCvSharp.Extensions.XML",
+        "lib/net40/OpenCvSharp.Extensions.dll",
+        "lib/net40/OpenCvSharp.UserInterface.dll",
+        "lib/net40/OpenCvSharp.XML",
+        "lib/net40/OpenCvSharp.dll",
+        "lib/net40/OpenCvSharp.dll.config",
+        "lib/net45/OpenCvSharp.Blob.XML",
+        "lib/net45/OpenCvSharp.Blob.dll",
+        "lib/net45/OpenCvSharp.Blob.dll.config",
+        "lib/net45/OpenCvSharp.CPlusPlus.XML",
+        "lib/net45/OpenCvSharp.CPlusPlus.dll",
+        "lib/net45/OpenCvSharp.CPlusPlus.dll.config",
+        "lib/net45/OpenCvSharp.Extensions.XML",
+        "lib/net45/OpenCvSharp.Extensions.dll",
+        "lib/net45/OpenCvSharp.UserInterface.dll",
+        "lib/net45/OpenCvSharp.XML",
+        "lib/net45/OpenCvSharp.dll",
+        "lib/net45/OpenCvSharp.dll.config",
+        "opencvsharp-anycpu.2.4.10.20170306.nupkg.sha512",
+        "opencvsharp-anycpu.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "OpenCvSharp-AnyCPU >= 2.4.10.20170306"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Елисей\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Елисей\\source\\repos\\ASCII\\ASCll\\ASCll.csproj",
+      "projectName": "ASCll",
+      "projectPath": "C:\\Users\\Елисей\\source\\repos\\ASCII\\ASCll\\ASCll.csproj",
+      "packagesPath": "C:\\Users\\Елисей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Елисей\\source\\repos\\ASCII\\ASCll\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Елисей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "OpenCvSharp-AnyCPU": {
+            "target": "Package",
+            "version": "[2.4.10.20170306, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

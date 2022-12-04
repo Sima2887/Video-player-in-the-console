@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXxBhe+wrb/zJgdsbvZD+gbqhtGK2SLWe3VPrJT2TJM4fXCWkEQ/PmSmmjQU2FybWeIgsjjoiGsHdfWk2RDnCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Елисей\\source\\repos\\ASCII\\ASCll\\ASCll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Елисей\\.nuget\\packages\\opencvsharp-anycpu\\2.4.10.20170306\\opencvsharp-anycpu.2.4.10.20170306.nupkg.sha512"
+  ],
+  "logs": []
+}
